@@ -28,7 +28,7 @@ PaperAgent is an AI-powered academic literature review tool built on Java 17, Ja
 ## 快速启动指南
 
 1. 环境依赖：请确保本地计算机已正确配置 JDK 17 及 Maven 构建工具。
-2. 获取代码：执行命令 `git clone https://github.com/你的用户名/你的项目名.git` 克隆本仓库。
+2. 获取代码：执行命令 `[git clonehttps://github.com/1784936735-web/PaperAgent.git]` 克隆本仓库。
 3. 构建项目：在项目根目录执行 `mvn clean install` 下载全部相关依赖。
 4. 密钥配置：在源码配置处填入你申请的 Kimi API-Key。
 5. 启动服务：运行 `PaperAssistant.java` 中的 `main` 方法，控制台提示启动成功后，通过浏览器访问 `http://localhost:8888` 即可进入系统主页。
